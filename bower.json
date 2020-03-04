@@ -2,7 +2,7 @@
   "name": "adapt-mcq-exserlan-sjs",
   "version": "1.0.0",
   "framework": ">=5",
-  "homepage": "https://github.com/adaptNYP/adapt-mcq-exserlan-sjs"
+  "homepage": "https://github.com/adaptNYP/adapt-mcq-exserlan-sjs",
   "component" : "mcq-exserlan-sjs",
   "displayName" : "MCQ EXSERLAN SJS",
   "description": "MCQ EXSERLAN SJS component",
