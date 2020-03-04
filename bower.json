@@ -1,0 +1,14 @@
+{
+  "name": "adapt-mcq-exserlan-sjs",
+  "version": "1.0.0",
+  "framework": ">=5",
+  "component" : "mcq-exserlan-sjs",
+  "displayName" : "MCQ EXSERLAN SJS",
+  "description": "MCQ EXSERLAN SJS component",
+  "main": "/js/adapt-mcq-exserlan-sjs.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPL-3.0"
+}
